@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 
-Opa tudo bem! meu nome é Samuel Vasques da Rocha e atualmente curso Sistemas de Informação na Universidade Federal do Mato Grosso do Sul, atualmente estou estudando desenvolvimento web e iniciando alguns projetos de games, caso queira entrar em contato:
+Opa tudo bem! meu nome é Samuel Vasques da Rocha e atualmente curso Sistemas de Informação na Universidade Federal do Mato Grosso do Sul, estou estudando desenvolvimento web e iniciando alguns projetos de games, caso queira entrar em contato:
 
 <br>
 LinkedIn: https://www.linkedin.com/in/samuel-rocha-86097a1b3/
