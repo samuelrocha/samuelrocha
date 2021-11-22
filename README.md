@@ -8,6 +8,6 @@ LinkedIn: https://www.linkedin.com/in/samuel-rocha-86097a1b3/
 <br>
 Email: darocha.vasques@gmail.com
 <br>👋
-Cel: +55 (17) 99999-6810
+Cel: +55 (19) 99999-6810
 <br><br>
 Sempre em frente na busca do conhecimento, aberto a novas oportunidades!
