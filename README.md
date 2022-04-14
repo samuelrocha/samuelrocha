@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 
-Opa tudo bem! meu nome é Samuel Vasques da Rocha e atualmente estou me aprimorando como programador, tenho grande interesse em Data Science e desenvolvimento de games.
+Atualmente estou cursando Anáise e Desenvolvimento de Sistemas, com conhecimento em desenvolvimento back-end e sempre em estado de aprimoramento. Gosto muito de programar em linguagem C e Python, assim como também gosto do universo open source, GNU/Linux <3.
 
 <br>
 LinkedIn: https://www.linkedin.com/in/samuel-rocha-86097a1b3/
