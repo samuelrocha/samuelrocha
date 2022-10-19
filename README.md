@@ -3,7 +3,7 @@
 ## Hello, World!
 
 <div align=justify>
-<p>Welcome to my readme, my name is Samuel and I'm currently studying systems analysis and development, I recommend you explore some of my projects as **samuelrocha/battle study**, I'm used to leaving some exercises that I also do in some repositories like cs50 and book_exercices.</p>
+<p>Welcome to my readme, my name is Samuel and I'm currently studying systems analysis and development, I recommend you explore some of my projects as <strong>samuelrocha/battle-study</strong>, I'm used to leaving some exercises that I also do in some repositories like cs50 and book_exercices.</p>
 </div>
 
 ### 💻 contact me
