@@ -1,16 +1,19 @@
-### Hello World! 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+## Hello, World!
 
-Atualmente estou cursando Anáise e Desenvolvimento de Sistemas, com conhecimento em desenvolvimento back-end e sempre em estado de aprimoramento. Gosto muito de programar em linguagem C e Python, assim como também gosto do universo open source, GNU/Linux <3.
+<div align=justify>
+<p>Welcome to my readme, my name is Samuel and I'm currently studying systems analysis and development, I recommend you explore some of my projects as **samuelrocha/battle study**, I'm used to leaving some exercises that I also do in some repositories like cs50 and book_exercices.</p>
+</div>
 
-<br>
-LinkedIn: https://www.linkedin.com/in/samuelrocha27/
-<br>
-Email: darocha.vasques@gmail.com
-<br>👋
-Cel: +55 (19) 99999-6810
-<br><br>
-Sempre em frente na busca do conhecimento, aberto a novas oportunidades!
-<br>
+### 💻 contact me
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div>
+<p>LinkedIn: https://www.linkedin.com/in/samuelrocha27/</br>eMail: darocha.vasques@gmail.com</br>Cell: +55 (19) 99999-6810</p>
+</div>
+
+### 🛠 my tools
+
+<div class='tools-img' align=justify>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=75 height=75 />&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=75 height=75/>&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=75 height=75/>&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width=75 height=75 />&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=75 height=75/>
+</div>
